@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mejiasluz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on alura 
+- 💞️ I’m looking to collaborate on @alura
+-
 - 📫 How to reach me ...
 
 <!---
